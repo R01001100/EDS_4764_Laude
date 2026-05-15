@@ -1,6 +1,5 @@
 .venv/
 backup/
-Tables.ipynb
-Plots.ipynb
+main.py
 FilterLogic.ipynb
 Flowchart.drawio
