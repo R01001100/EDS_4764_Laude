@@ -1,5 +1,7 @@
 .venv/
-Flowchart.drawio
+outputs/
+backup/
+main.py
 Tables.ipynb
 Plots.ipynb
-FilterLogic.ipynb
+Flowchart.drawio
