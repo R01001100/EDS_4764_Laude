@@ -1,0 +1,6 @@
+.venv/
+backup/
+Tables.ipynb
+Plots.ipynb
+FilterLogic.ipynb
+Flowchart.drawio
